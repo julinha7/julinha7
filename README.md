@@ -1,4 +1,8 @@
-## Hi there 👋
+## olá meu nome é Júlia, sejam bem vindos ao meu perfil!
+- Sou bancario, estou estudando na ALURA
+- Estou aprendendo  logica de progamação com as linguagens javascript e HTML
+
+![].(https://media.tenor.com/QfvblVIuc_gAAAAj/bts-bangtan-boys.gif).
 
 <!--
 **julinha7/julinha7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
